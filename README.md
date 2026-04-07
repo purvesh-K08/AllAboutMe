@@ -1,5 +1,22 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20to%20My%20Profile&fontSize=30" />
+</div>
+
+# 💫 Hi 👋, I'm Purvesh Khandare 
+**Aspiring Software Developer | Java Full-Stack | PG-DAC CDAC Kharghar**
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Java+Full+Stack+Developer;Spring+Boot+Enthusiast;Open+to+Work" />
+</div>
+
 # 💫 About Me:
-🔭 I’m currently working on improving my full-stack development skills with Java, Spring Boot, and React<br><br>👯 I’m looking to collaborate on beginner-friendly web development and backend projects<br><br>🤝 I’m looking for help with building scalable applications and improving problem-solving skills<br><br>🌱 I’m currently learning advanced Spring Boot, REST APIs, and system design basics<br><br>💬 Ask me about Java, SQL, and full-stack development basics<br><br>⚡ Fun fact: I enjoy turning real-life problems into simple web applications<br>
+🔭 I’m currently looking for an entry-level software development role where I can apply my skills in Java, Spring Boot, and React<br><br>
+👯 I’m open to collaborating on real-world web development and backend projects to gain practical experience<br><br>
+🤝 I’m seeking opportunities to work with experienced developers and learn how to build scalable applications<br><br>
+🌱 I’m continuously improving my skills in Spring Boot, REST APIs, and system design fundamentals<br><br>
+💬 Ask me about Java, SQL, and full-stack development basics<br><br>
+⚡ Fun fact: I enjoy building applications that solve real-life problems and improve user experience<br>
+
 
 
 ## 🌐 Socials:
@@ -12,6 +29,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=purvesh-K08&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=purvesh-K08&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=purvesh-K08&theme=dark&hide_border=true" />
+</div>
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=purvesh-K08&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
@@ -22,3 +44,9 @@
 [![](https://visitcount.itsvg.in/api?id=purvesh-K08&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=purvesh-K08&theme=react-dark" />
+</div>
+
